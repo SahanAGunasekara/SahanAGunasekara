@@ -14,9 +14,7 @@
   
 - 🏆 I'm an Undergraduate at JIAT
 
-- 👨‍💻 All of my projects are available at [(https://sahanagunasekara.gith
- ub.io/sahanGunasekara/)](https://sahanagunasekara.gith
- ub.io/sahanGunasekara/)
+- 👨‍💻 All of my projects are available at [(https://sahanagunasekara.github.io/sahanGunasekara/)]
 
 - 💬 Ask me about **JAVA development | PHP Web development**
 
