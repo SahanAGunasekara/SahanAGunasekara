@@ -10,9 +10,9 @@
   <tr>
   <td width="50%" valign="top">
     
-- 🌱 I’m currently learning **OOPC With Java & SpringBoot
+- 🌱 I’m currently learning **OOPC With Java & SpringBoot**
   
-- 🏆 I'm an Undergraduate at JIAT
+- 🏆 I'm an Undergraduate at IIC University of Carmbodia
 
 - 👨‍💻 All of my projects are available at https://sahanagunasekara.github.io/sahanGunasekara/
 
